@@ -1,0 +1,7 @@
+export const SET_AUTH = 'SET_AUTH'
+export const SET_ERROR = 'SET_ERROR'
+export const FETCH_END = 'FETCH_END'
+export const FETCH_START = 'FETCH_START'
+export const REMOVE_AUTH = 'REMOVE_AUTH'
+export const SET_LOGIN_URL = 'SET_LOGIN_URL'
+export const SET_CALENDAR_EVENT = 'SET_CALENDAR_EVENT'
